@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jiaxing Li 李佳星"
-resume_title:                   "PhD Student in Rehabilitation Science"
+resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jiaxing7@ualberta.ca"
